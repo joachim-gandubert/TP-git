@@ -1,4 +1,4 @@
-*.exe
-*.dll
-/bin
+/bin/*.exe
+/bin/*.dll
+
 !/bin/*.xml
