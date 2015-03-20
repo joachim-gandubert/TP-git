@@ -1,4 +1,6 @@
-### application.bat - 2015 - Gandubert ###
-echo "version 1.1"
-echo "Copyright company - 201x"
-echo "build : 10:10"
+### application.bat - 2015 - gandubert ###
+version = "1.2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
